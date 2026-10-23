@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
